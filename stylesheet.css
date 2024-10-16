@@ -1,0 +1,24 @@
+h1{
+	color:red;
+    background-color:white;
+	font-family:ariel;
+ }
+ body{
+	  background-color:yellow;
+ }
+ table{
+  height:200px;
+  width:800px;
+  color:black;
+  
+ }
+ td{
+	 font-style:bold;
+ }
+ button{
+	 color:white;
+	 background-color:red;
+ }
+ figcaption{
+	 color:blue;
+ }
